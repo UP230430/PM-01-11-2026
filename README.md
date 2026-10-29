@@ -1,6 +1,7 @@
 Los querys para crear la base de datos y la tabla, e insertar los datos fueron los siguientes:
 
 CREATE DATABASE IF NOT EXISTS productos_db;
+
 USE productos_db;
 
 CREATE TABLE productos (
